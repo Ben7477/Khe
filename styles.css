@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/1b/c9/8b/1bc98bd7df7d4c00bc61969748918a8a.jpg);
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(290, 100%, 88%)
+}
+
+#button{
+    border-radius: 5%;
+    font-style: italic;
+    font-size: large;
+    cursor: pointer;
+    width: 250px;
+    height: 100px;
+    background-color: rgb(188, 155, 201);
+    position: absolute;
+    left: 825px;
+    top: 350px;
+}
+
+#Paragraph{
+    font: bold;
+    font-size: large;
+    background-color: hsl(0, 100%, 95%);
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    width: 500px;
+}
+
+#GifFlower{
+    position: absolute;
+    top: 85px;
+    left: 825px;
+}
